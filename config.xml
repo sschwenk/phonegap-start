@@ -4,14 +4,14 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>calileo: Getting Started</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		A template for getting started with PhoneGap development and build.phonegap.com. Smaller adjustments by @stesch.
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
+	<author href="http://www.calileo.de"
+		email="info@calileo.de">
 		Andrew Lunny
 	</author>
 
